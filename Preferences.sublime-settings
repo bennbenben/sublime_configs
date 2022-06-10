@@ -1,0 +1,13 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 19,
+	"color_scheme": "Packages/Material Monokai/MaterialMonokai.tmTheme",
+	//"color_scheme": "Packages/Material Monokai/MaterialMonokaiBlue.tmTheme",
+	//"color_scheme": "Packages/Material Monokai/MaterialMonokaiDark.tmTheme",
+	//"color_scheme": "Packages/Material Monokai/MaterialMonokaiLight.tmTheme",
+	//"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "auto",
+}
