@@ -1,6 +1,7 @@
 {
+	"tag":"python", // to always build on the same window
 	"target": "terminus_open", // Execute code in a new tab (or: in another "view")
-	"cancel": "terminus_cancel_build", // Cancel build
+	// "cancel": "terminus_cancel_build", // Cancel build
 
 	"focus": false, // Set focus to the panel (panel is bottom)
 	//"target": "terminus_exec", // Execute terminus in another bottom bar
@@ -8,8 +9,6 @@
 	"title": "Python Output", // Name the tab of python output
 	"auto_close": false, // Auto close tab after input
 	"timeit": true, // Show run-time of code execution
-
-	"tag":"just_a_tag", // to always build on the same window
 
 	"pre_window_hooks": [ // to always build on the same window
         ["close_terminus_view", {"title": "Python Output"}]
